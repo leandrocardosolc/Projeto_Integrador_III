@@ -1,0 +1,10 @@
+﻿Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,Resolution,Created,Updated,Sprint,Custom field (Critérios de Aceite),Custom field (Story point estimate),Description,Due date
+Story,PROJ-28,10412,Interface,,,Jhonathan Henrique,712020:5e816ad1-01e3-4f1f-90b5-eeb5cb765c60,Medium,Done,Done,15/Sep/25 9:48 PM,29/Sep/25 10:10 PM,Sprint 01,,5.0,"h1. Como usuário, quero ter uma interface intuitiva e de fácil uso com design moderno e responsivo",
+Task,PROJ-27,10411,Sistema de Cadastramento de Usuario,,,Leandro Cardoso,712020:7d79b25e-0d24-48bb-b244-3163f7270e34,Medium,Done,Done,15/Sep/25 8:28 PM,29/Sep/25 9:58 PM,Sprint 01,"O sistema deve permitir que o usuário cadastre-se  inserindo (nome, endereço de email e endereço fisico e senha).
+
+O sistema deve permitir que o usuário cadastre-se via SSO (gmail e/ou facebook entre outros).
+
+Deve haver autenticação utilizando JWT",8.0,,
+Story,PROJ-26,10410,Cadastro do Usuário,,,Leandro Cardoso,712020:7d79b25e-0d24-48bb-b244-3163f7270e34,Medium,Done,Done,15/Sep/25 8:26 PM,29/Sep/25 9:58 PM,Sprint 01,,,Eu como usuário quero me cadastrar no site seja manual ou via SSO e realizar login no sistema de maneira segura e eficiente,
+Task,PROJ-21,10405,Implementação de react em todo o frontend,,,Jhonathan Henrique,712020:5e816ad1-01e3-4f1f-90b5-eeb5cb765c60,Medium,In Progress,,15/Sep/25 7:57 PM,19/Sep/25 11:05 PM,Sprint 01,"Fazer a implementação de react em todo o front end, utilizando a header como objeto e ela sendo chamada em cada página como objeto",5.0,,
+Task,PROJ-16,10400,Implementação de bibliotecas e frameworks,,,Jhonathan Henrique,712020:5e816ad1-01e3-4f1f-90b5-eeb5cb765c60,Medium,In Progress,,15/Sep/25 7:49 PM,29/Sep/25 9:56 PM,Sprint 01,"Implementar o uso de react no sistema, facilitando o desenvolvimento e padronização do sistema, e também analisar as possibilidades de implementar outras bibliotecas como node e etc.",8.0,,
